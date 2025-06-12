@@ -1,0 +1,3 @@
+[submodule "dovey"]
+	path = dovey
+	url = https://github.com/pisayesiwsi/dovey2d
