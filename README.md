@@ -1,4 +1,4 @@
-Template game for [dövey2d](https://github.com/pisayesiwsi/dovey2d), a small extension for LÖVE2D made for persional projects.
+Template game for [dövey2d](https://github.com/pisayesiwsi/dovey2d), a small extension for LÖVE2D made for personal projects.
 
 this project's is meant to be repurposed for games and/or programs using dövey2d alongside LÖVE, if you wanna have more control however, it is recommended for you to either modify your own instance of dövey, or if you believe your feature should be in dövey by default, **[make a pull request](https://github.com/pisayesiwsi/dovey2d/pulls)** as it is much appreciated.
 
