@@ -21,7 +21,7 @@ function love.load()
 			end
 			love.graphics.push("all")
 			love.graphics.print((
-				"FPS "..tostring(displayFPS).." - "..version
+				"FPS " .. tostring(displayFPS) .. " - " .. version
 			), 5, 5)
 			love.graphics.pop()
 			_timer = _timer + love.timer.getDelta()
